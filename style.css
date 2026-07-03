@@ -1,12 +1,13 @@
 .cabecalho{
           background-color: red;
-          color: black;
+          color: rgba(44, 24, 24, 0.89);
           text-align: center;
           margin: 0 auto;
           max-width: 800px;
 }
 
 .principal{
-     background-color: black;
+     background-color: rgb(224, 240, 225);
      color: mediumaquamarine;
 }
+
