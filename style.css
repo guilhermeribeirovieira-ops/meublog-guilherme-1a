@@ -1,13 +1,19 @@
 .cabecalho{
-          background-color: red;
-          color: rgba(44, 24, 24, 0.89);
-          text-align: center;
-          margin: 0 auto;
-          max-width: 800px;
+    background-color: rgb(231, 75, 75);
+    color: rgb(241, 241, 234);
+    text-align:center;
+    margin: 0 auto;
+    max-width: 800px;
+    padding: 16px;
 }
 
 .principal{
-     background-color: rgb(224, 240, 225);
-     color: mediumaquamarine;
+    background-color: rgb(238, 238, 233);
+    color:rgb(230, 66, 66);
 }
 
+.principal-imagem{
+    /*Dimensões da imagem: largura e altura 100 pixels*/
+    width: 50px;
+    height: 30px;
+}
